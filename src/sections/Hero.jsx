@@ -17,7 +17,7 @@ const Hero = () => {
         className="relative xl:w-2/5 flex flex-col justify-center items-start
       w-full  pt-28 max-xl:padding-x"
       >
-        <p className="text-xl font-montserrat text-coral-red 
+        <p className="text-xl font-montserrat text-coral-red hover:underline decoration-double cursor-pointer
         ">
           Our Winter collections
         </p>
@@ -43,7 +43,7 @@ const Hero = () => {
 
         <div
           className="flex justify-starts items-start flex-wrap
-        w-full mt-20 gap-16"
+        w-full mt-20 gap-16 hover:-translate-y-1 hover:scale-110  duration-300 "
         >
           {statistics.map((stat) => (
             <div key={stat.label}>

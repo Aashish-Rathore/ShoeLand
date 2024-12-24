@@ -31,7 +31,6 @@ const SpecialOffer = () => {
         <Button label="View details"/>
         <Button 
              label="Learn more"
-            //  backgroundColor="bg-white"
              borderColor="border-slate-gray"
              textColor="text-slate-gray"
         />

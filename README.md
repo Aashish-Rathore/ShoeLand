@@ -10,8 +10,11 @@ Shoeland is a stylish and responsive landing page built as a showcase for Nike-i
 Features:
 
 Responsive Design: Optimized for all screen sizes using TailwindCSS.
+
 Dynamic Components: Built with React for a seamless and interactive interface.
+
 Fast Performance: Powered by Vite for quick load times and efficient builds.
+
 Minimalistic Layout: Clean and elegant design inspired by Nike’s branding.
 
 Tech Stack:

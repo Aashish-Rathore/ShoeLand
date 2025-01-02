@@ -7,6 +7,7 @@ Project Description:
 
 Shoeland is a stylish and responsive landing page built as a showcase for Nike-inspired shoes. Developed using React, Vite, HTML, and TailwindCSS, this project focuses on delivering a sleek and engaging user experience.
 
+
 Features:
 
 Responsive Design: Optimized for all screen sizes using TailwindCSS.
@@ -17,12 +18,17 @@ Fast Performance: Powered by Vite for quick load times and efficient builds.
 
 Minimalistic Layout: Clean and elegant design inspired by Nike’s branding.
 
+
 Tech Stack:
 
 React.js: For dynamic and reusable components.
+
 Vite: Ensures fast development and optimized performance.
+
 TailwindCSS: Utility-first CSS framework for styling and responsiveness.
+
 HTML: Provides the structure for the application.
+
 
 
 Installation:

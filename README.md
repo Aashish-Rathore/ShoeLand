@@ -10,6 +10,7 @@ Shoeland is a stylish and responsive landing page built as a showcase for Nike-i
 
 
 Features:
+
 Responsive Design: Optimized for all screen sizes using TailwindCSS.
 
 Dynamic Components: Built with React for a seamless and interactive interface.
@@ -21,6 +22,7 @@ Minimalistic Layout: Clean and elegant design inspired by Nike’s branding.
 
 
 Tech Stack:
+
 React.js: For dynamic and reusable components.
 
 Vite: Ensures fast development and optimized performance.
@@ -33,6 +35,7 @@ HTML: Provides the structure for the application.
 
 
 Installation:
+
 1.Clone the repository: git clone https://github.com/Aashish-Rathore/Shoeland.git
 
 2.Navigate to the project directory: cd Shoeland
